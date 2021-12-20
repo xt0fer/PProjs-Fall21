@@ -6,7 +6,7 @@
 - Michael. [LifeCounter](https://github.com/mgawron8/LifeCounterProject)
 - John. [NightNight](https://github.com/johnrichardellis/NightNight)
 - David. [CigarFriend](https://github.com/DNguyen-01/Passion-Project-Cigar-Friend)
--
+- Christine. [BetterMe](https://github.com/croethel/PassionProjectBetterMe)
 -
 -
 -
