@@ -9,14 +9,14 @@
 - Christine. [BetterMe](https://github.com/croethel/PassionProjectBetterMe)
 - Tom. [Family Recipes](https://github.com/TomLafferty/Passion-Project-Recipes)
 - Keerthi. [Not Yet Chosen](https://github.com/keerthiballa/Passion-Project)
-- Junior. [Zip Chatter]()
+- Junior. [Zip Chatter](https://github.com/Roggam/Zip-Chatter)
 - Jacob. [dungeon game]()
-- 
+- Paul. [WorkingTitle](https://github.com/quatrpau/Passion-Project-Working-Title)
+- Tra. [VirtualBankATM](https://github.com/TraAnge21/VirtualBank-ATM)
+- Efe. [InFlationRates](https://github.com/Efe-C-3/InflationRateAnalytics)
 -
 -
 -
--
--
--
+
 
 Happy happy joy joy. 快乐快乐
