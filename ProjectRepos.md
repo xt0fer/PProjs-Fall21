@@ -7,10 +7,11 @@
 - John. [NightNight](https://github.com/johnrichardellis/NightNight)
 - David. [CigarFriend](https://github.com/DNguyen-01/Passion-Project-Cigar-Friend)
 - Christine. [BetterMe](https://github.com/croethel/PassionProjectBetterMe)
--
--
--
--
+- Tom. [Family Recipes](https://github.com/TomLafferty/Passion-Project-Recipes)
+- Keerthi. [Not Yet Chosen](https://github.com/keerthiballa/Passion-Project)
+- Junior. [Zip Chatter]()
+- Jacob. [dungeon game]()
+- 
 -
 -
 -
