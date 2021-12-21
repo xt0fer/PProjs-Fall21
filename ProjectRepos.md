@@ -10,7 +10,7 @@
 - Tom. [Family Recipes](https://github.com/TomLafferty/Passion-Project-Recipes)
 - Keerthi. [Not Yet Chosen](https://github.com/keerthiballa/Passion-Project)
 - Junior. [Zip Chatter](https://github.com/Roggam/Zip-Chatter)
-- Jacob. [dungeon game]()
+- Jacob. [dungeon game](https://github.com/Jacob-Stagg/PassionProject)
 - Paul. [WorkingTitle](https://github.com/quatrpau/Passion-Project-Working-Title)
 - Tra. [VirtualBankATM](https://github.com/TraAnge21/atm)
 - Efe. [InFlationRates](https://github.com/Efe-C-3/InflationRateAnalytics)
