@@ -1,7 +1,7 @@
 # Project Repo List
 
 - Cay. [Discord-Scheduler](https://github.com/nganttong/Passion-Project-Discord-Scheduler)
-- Amanda. [TableTopper](https://github.com/AmandaJ-Huang/PassionProject/blob/main/ProjectOnePager.md)
+- Amanda. [Find Me a Board Game](https://github.com/AmandaJ-Huang/PassionProject)
 - Carnell. [RecipeLinker](https://github.com/c-poteat/passionProject)
 - Michael. [LifeCounter](https://github.com/mgawron8/LifeCounterProject)
 - John. [NightNight](https://github.com/johnrichardellis/NightNight)
@@ -12,11 +12,10 @@
 - Junior. [Zip Chatter](https://github.com/Roggam/Zip-Chatter)
 - Jacob. [dungeon game]()
 - Paul. [WorkingTitle](https://github.com/quatrpau/Passion-Project-Working-Title)
-- Tra. [VirtualBankATM](https://github.com/TraAnge21/VirtualBank-ATM)
+- Tra. [VirtualBankATM](https://github.com/TraAnge21/atm)
 - Efe. [InFlationRates](https://github.com/Efe-C-3/InflationRateAnalytics)
--
--
--
-
+- Creasen. [QQ Log](https://github.com/creasennaicker/PassionProject)
+- Keerthana. [Visual ChatBot](https://github.com/keerthana-java/Visual-ChatBot)
+- Drake. [Direct Mail Tracker](https://github.com/DrakeDwornik/mail_tracker)
 
 Happy happy joy joy. 快乐快乐
