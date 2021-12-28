@@ -2,7 +2,7 @@
 
 - Cay. [Discord-Scheduler](https://github.com/nganttong/Passion-Project-Discord-Scheduler) - [commits](https://github.com/nganttong/Passion-Project-Discord-Scheduler/commits/main)
 - Amanda. [Find Me a Board Game](https://github.com/AmandaJ-Huang/PassionProject) - [commits](https://github.com/AmandaJ-Huang/PassionProject/commits/main)
-- Carnell. [RecipeLinker](https://github.com/c-poteat/passionProject) - [commits](https://github.com/c-poteat/passionProject/commits/main)
+- Carnell. [RecipeLinker](https://github.com/c-poteat/passionProject) - [commits](https://github.com/c-poteat/passionProject/commits/master)
 - Michael. [LifeCounter](https://github.com/mgawron8/LifeCounterProject) - [commits](https://github.com/mgawron8/LifeCounterProject/commits/main)
 - John. [NightNight](https://github.com/johnrichardellis/NightNight) - [commits](https://github.com/johnrichardellis/NightNight/commits/main)
 - David. [CigarFriend](https://github.com/DNguyen-01/Passion-Project-Cigar-Friend) - [commits](https://github.com/DNguyen-01/Passion-Project-Cigar-Friend/commits/main)
